@@ -11,10 +11,10 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  AVINASH / PRODUCT ENGINEER                                      STATUS: ON   │
+│  AVINASH / PRODUCT ENGINEER                                      STATUS: ON  │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  I build thoughtful software products: product interfaces, durable systems,  │
-│  and browser experiences that earn the right to feel simple.                  │
+│  and browser experiences that earn the right to feel simple.                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
@@ -28,9 +28,9 @@
 
 <pre>
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│  ROLEVIRO                                                        LIVE PRODUCT │
+│  ROLEVIRO                                                       LIVE PRODUCT │
 │  ──────────────────────────────────────────────────────────────────────────  │
-│  A modern resume builder for creating work that feels like you.               │
+│  A modern resume builder for creating work that feels like you.              │
 │                                                                              │
 │  EDIT  ──►  LIVE PREVIEW  ──►  TEMPLATE  ──►  EXPORT                         │
 │                                                                              │
@@ -41,6 +41,8 @@
 Roleviro brings responsive editing, an A4 live preview, document import, server-rendered PDF export, secure accounts, autosave, cloud persistence, and payments into one considered workflow.
 
 <p>
-  <a href="https://www.roleviro.com"><strong>Launch Roleviro ↗</strong></a>
+  <a href="https://www.roleviro.com" target="_blank" rel="noopener noreferrer">
+    <strong>Launch Roleviro ↗</strong>
+  </a>
 </p>
 
