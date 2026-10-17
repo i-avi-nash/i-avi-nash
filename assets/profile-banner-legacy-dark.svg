@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Avinash, product engineer</title>
+  <desc id="description">A retro terminal inspired profile banner in dark mode.</desc>
+  <rect width="1200" height="300" rx="20" fill="#0d1117"/>
+  <rect x="26" y="25" width="1148" height="250" rx="12" fill="#161b22" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="26" y="25" width="1148" height="36" rx="12" fill="#d0d7de"/>
+  <circle cx="51" cy="43" r="6" fill="#0d1117"/><circle cx="72" cy="43" r="6" fill="#d76d7a"/><circle cx="93" cy="43" r="6" fill="#dbb95a"/>
+  <text x="1128" y="48" text-anchor="end" fill="#0d1117" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">PROFILE.SYS</text>
+  <g fill="#e6edf3" font-family="ui-monospace, Menlo, Consolas, monospace">
+    <text x="67" y="103" font-size="14">$ whoami</text>
+    <text x="67" y="154" font-size="45" font-weight="700">AVINASH</text>
+    <text x="67" y="189" font-size="18">product engineer / interface + systems</text>
+    <text x="67" y="236" font-size="14">$ current --project</text>
+  </g>
+  <rect x="290" y="216" width="124" height="30" rx="15" fill="#d76d7a"/>
+  <text x="352" y="236" text-anchor="middle" fill="#0d1117" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700">ROLEVIRO</text>
+  <g transform="translate(820 86)" fill="none" stroke="#e6edf3" stroke-width="2">
+    <rect width="270" height="139" rx="5"/>
+    <path d="M20 25H149M20 42H219M20 83H250M20 100H196M20 117H231"/>
+    <path d="M20 62H114" stroke="#d76d7a" stroke-width="5"/>
+    <path d="M182 0V139M0 70H270" opacity=".25"/>
+  </g>
+</svg>
